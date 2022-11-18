@@ -2,7 +2,8 @@
 
 Proyecto de ver mi cara
 
-<img src= "IMG_20220912_154451.jpg"
+![IMG_20221116_193125](https://user-images.githubusercontent.com/118387887/202595692-83904c80-acbf-4503-81ff-cc9a3e010e94.jpg)
+
 
 Descargar y modificar código cómo hacerlo.
 
